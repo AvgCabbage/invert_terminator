@@ -8,3 +8,5 @@ Settings up and alias to run this script and exit will switch the config and ope
 Just compares and swaps out config file, simple solution to the problem.  Plan is to completely rewrite this to just modify the foreground/background color values in the config, rather than have the extra config files.  V2 is partially working, just haven't gotten around to cleaning it up and finishing.
 
 Version 2 is now uploaded, which now uses sed to replace the foreground/background values in the config.
+
+Next task is to have the new terminator window open with the same position as the original( right now it open a small term ).
