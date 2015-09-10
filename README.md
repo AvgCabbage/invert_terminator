@@ -9,4 +9,4 @@ Just compares and swaps out config file, simple solution to the problem.  Plan i
 
 Version 2 is now uploaded, which now uses sed to replace the foreground/background values in the config.
 
-Next task is to have the new terminator window open with the same position as the original( right now it open a small term ).
+Next task is to have the new terminator window open with the same position as the original( right now it opens a small term ).
